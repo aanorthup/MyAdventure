@@ -34,11 +34,11 @@ class Pathing {
         //10
         Choice("You find a person falling into quicksand and help him. He smiles, and offers to help you. On your walk back, you find out he's the king of this land! He even knows what magic sent you here, and sends you home in time for dinner. Good job!", "Restart", "Restart"),
         //11
-        Choice("You run away - but feel a sharp stab in your back. The poison spreads before you can see what spread it. You never get up again.", "Restart", "Restart"),
+        Choice("You run away - but feel a sharp stab in your back. The poison spreads before you can see what go you. You never get up again.", "Restart", "Restart"),
         //12
-        Choice("You turn around and face a giant serpent. It moved back in surprise. A soldier comes running to you. You're the first person to ever face on these giant snakes - and in turn you become a hero in this world. Unfortunately, you don't find your way home.", "Restart", "Restart"),
+        Choice("You turn around and face a giant serpent. It moves back in surprise at being faced. A soldier sees and comes running to you. By dumb luck, you become a hero in this world. Unfortunately, you don't find your way home.", "Restart", "Restart"),
         //13
-        Choice("The dragon smiles a toothy grin. 'It's been a long time since anyone was polite this room.' You didn't find your way home, but you made a powerful friend. It's a start.", "Restart", "Restart"),
+        Choice("The dragon smiles a toothy grin. 'It's been a long time since anyone was polite this room.' You didn't find your way home, but you made a powerful friend. That's something.", "Restart", "Restart"),
         //14
         Choice("As soon as you turn you're burnt to a crisp. Just a snack for the dragon.", "Restart", "Restart"),
         //15
